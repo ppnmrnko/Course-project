@@ -136,6 +136,7 @@ function DeleteWarior(WariorNumber)
 	}, "html");
 };
 
+
 // Добавление оружия
 function WriteWeapon()
 {
@@ -197,5 +198,4 @@ function DeleteWeapon(WeaponNumber)
 	}, "html");
 
 };
-
 
